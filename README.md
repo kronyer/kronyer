@@ -6,6 +6,7 @@
 
 ![Kronyer's GitHub stats](https://github-readme-stats.vercel.app/api?username=kronyer&show_icons=true&theme=tokyonight)
 
+
 ## Tecnologias
 <div style=display: inline_block>
 <br/>
@@ -22,4 +23,4 @@
 
 Paixão pelo lógico e o ilógico.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kronyer)](https://github.com/kronyer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kronyer&show_icons=true&theme=tokyonight)](https://github.com/kronyer/github-readme-stats)

@@ -1,15 +1,14 @@
 title: Pedro's Digital Garden
-description: Notas sobre computação
 remote_theme: pmarsceill/just-the-docs
+
+# Ativa o Dark Mode nativo
 color_scheme: dark
 
-# Habilita o suporte a LaTeX no processador de Markdown padrão
+# Configuração crítica para não bugar o LaTeX
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-
-# Configurações de navegação do tema
-just_the_docs:
-  nav_external_links:
-    - title: Meu GitHub
-      url: https://github.com/kronyer
+  # Isso evita que o kramdown tente processar o que está dentro de blocos matemáticos
+  parse_block_html: true
+  commonmark:
+    hard_line_breaks: false

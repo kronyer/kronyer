@@ -1,0 +1,29 @@
+- [ ] Nunca comparar com Double, e sim com decimal
+- [x] Inline arrays
+- [ ] Jagged arrays vs multidimensional
+- [ ] C# bankers rounding
+- [ ] Base 64, base 64 url, base 62 e outras bases
+- [ ] Catch when
+- [ ] Checked overflow
+- [ ] Double e Int dividindo por zero
+- [ ] Break continue e return
+- [ ] Partial functions na program, program.test.cs para evitar que com top level statements as funções dentro da program virem local functions
+- [ ] Documentar funções xml
+- [ ] Test doer e try patrern
+- [ ] Debug tracer e ilogger e os Trace levels
+- [ ] Modificadores de acesso
+- [ ] Aliás, using, podemos renomear qualquer tipo, até tuplas
+- [ ] Enum herdando de byte e podendo ser lista usando |, com a annotation [Flags]
+- [ ] Usando static, metodos, propriedades, classes
+- [ ] [SetRequiredMembers] para forçar a inicialização de propriedades
+- [ ] Optional parameters, precisa do ? ou não
+- [ ] Passagem de parametros, value, out ref e in
+- [ ] Params keyword, permitindo qualquer collection
+- [ ] Ref returns
+- [ ] Usando tuplas, tuple name inference, aliasing, deconstruction
+- [ ] Partial methods
+- [ ] Fields vs properties
+- [ ] Best way to calculate someone age
+- [ ] Geters, setters, backing fields e partial properties
+- [ ] Definindo indices com this[]
+- [ ] pattern matching com objetos

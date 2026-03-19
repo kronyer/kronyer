@@ -1,0 +1,13 @@
+title: Pedro's Digital Garden
+description: Notas sobre computação
+remote_theme: pmarsceill/just-the-docs
+
+# Habilita o suporte a LaTeX no processador de Markdown padrão
+kramdown:
+  math_engine: mathjax
+
+# Configurações de navegação do tema
+just_the_docs:
+  nav_external_links:
+    - title: Meu GitHub
+      url: https://github.com/kronyer
